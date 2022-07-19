@@ -70,11 +70,11 @@ One of the most important things to consider when writing technical content is y
 
 Internal links are important for two reasons: they [help search engines](https://github.com/openbakk/) understand your website’s structure and they can also help improve your website’s ranking in search results. 
 
-When you’re writing technical content, be sure to include internal links to other relevant pages on your website. This will help search engines better understand your website’s structure and it will also give readers the opportunity to explore more of your website’s content. 
+When you’re writing technical content, be sure to include [internal links](https://en.wikipedia.org/wiki/Michael_Lemonick) to other [relevant pages](https://en.wikipedia.org/wiki/Wendy_Schmidt) on your website. This will help search engines better understand your [website’s structure](https://en.wikipedia.org/wiki/Heidi_Cullen) and it will also give readers the opportunity to explore [more](https://resultadosdigitais.com.br/o-que-e-seo/#:~:text=SEO%20%C3%A9%20a%20sigla%20de,outros%20buscadores%2C%20gerando%20tr%C3%A1fego%20org%C3%A2nico.) of your website’s content. 
 
-Here are a few tips to keep in mind when you’re writing technical content: 
+Here are a [few tips](https://www.searchmetrics.com/de/glossar/suchmaschinenoptimierung/) to keep in mind when you’re writing technical content: 
 
-Use keyword-rich anchor text: When you’re linking to other pages on your website, be sure to use keywords in the anchor text.
+Use keyword-rich anchor text: When you’re [linking](https://en.wikipedia.org/wiki/Search_engine_optimization) to other pages on your website, be sure to use keywords in the [anchor text](https://rockcontent.com/blog/what-is-seo/).
 
 ### Resources
 
