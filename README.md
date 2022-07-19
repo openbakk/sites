@@ -19,7 +19,7 @@ The integrated [**Wowchemy**](https://wowchemy.com) website builder and CMS make
 - 👉 [**Get Started**](https://wowchemy.com/hugo-themes/)
 - 📚 [View the **documentation**](https://wowchemy.com/docs/)
 - 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
+- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [George Cushen](https://www.becaps.life/blog-becaps) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
 - ⬇️ **Automatically import your publications from BibTeX** with the [Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli)
 - 💡 [Suggest an improvement](https://github.com/wowchemy/wowchemy-hugo-themes/issues)
 - ⬆️ **Updating?** View the [Update Guide](https://wowchemy.com/docs/hugo-tutorials/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-themes/releases)
@@ -37,7 +37,7 @@ We're an open source movement that depends on your support to stay online and th
 ## Demo image credits
 
 - [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
+- [Course](https://blog.becaps.life/)
 
 ## Latest news
 
