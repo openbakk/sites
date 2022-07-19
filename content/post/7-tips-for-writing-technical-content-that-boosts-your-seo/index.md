@@ -49,6 +49,8 @@ image:
 
 [LSI keywords](<https://www.wordstream.com/blog/ws/2020/08/27/lsi-keywords#:~:text=In%20terms%20of%20SEO%20(search,what%20your%20content%20is%20about.>) are simply words and phrases related to your [main keyword](https://blog.hubspot.com/marketing/technical-seo-guide). By including them in your content, you can [signal](https://www.reliablesoft.net/technical-seo/) to Google that your content is relevant and informative. This, in turn, can help **[boost your SEO](http://www.google.com/url?sa=t&url=https%3A%2F%2Fbecaps.life)**. Here are seven tips for incorporating LSI keywords into your [technical content](https://developers.google.com/search/docs/beginner/seo-starter-guide).
 
+![SEO](seo.png "SEO Build")
+
 ## Write useful meta descriptions
 
 1. Keep your [meta descriptions](https://www.becaps.life/becaps) short and sweet - under 155 characters is ideal.
