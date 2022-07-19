@@ -27,7 +27,7 @@ image:
 1. When you're [writing technical content](https://www.bigcommerce.com/ecommerce-answers/technical-seo/), always keep your audience in [mind](https://allincode.mystrikingly.com/). Write for humans first and foremost, and worry [about keywords](https://www.semrush.com/blog/learning-technical-seo/) second. 
 2. That said, don't forget to include relevant keywords throughout your content. But don't stuff them in; use them naturally and sparingly. 
 3. Make your [content easy to read](https://yoast.com/what-is-technical-seo/) and understand. Use short sentences and simple words whenever possible. 
-4. Breaking up your [text with headings](https://www.imdb.com/user/ur154554049/), lists, and images can also help make it [more digestible](https://archive.org/details/increase-rank). 
+4. Breaking up your [text with headings](https://www.imdb.com/user/ur154554049/), lists, and images can also help make it [more digestible](https://tinyurl.com/2p8n8x2f). 
 5. Keep your [content updated](https://tinyurl.com/4rs7rvxd) regularly. Outdated information can hurt your [SEO ranking](https://github.com/openbakk/zippa/wiki/7-Simple-SEO-Hacks-to-Boost-Your-Traffic), so it's important to keep things fresh.
 
 **Recommended reading**
