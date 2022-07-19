@@ -68,7 +68,7 @@ One of the most important things to consider when writing technical content is y
 
 ### Add related internal links
 
-Internal links are important for two reasons: they help search engines understand your website’s structure and they can also help improve your website’s ranking in search results. 
+Internal links are important for two reasons: they [help search engines](https://github.com/openbakk/) understand your website’s structure and they can also help improve your website’s ranking in search results. 
 
 When you’re writing technical content, be sure to include internal links to other relevant pages on your website. This will help search engines better understand your website’s structure and it will also give readers the opportunity to explore more of your website’s content. 
 
