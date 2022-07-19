@@ -76,7 +76,7 @@ When you’re writing technical content, be sure to include [internal links](htt
 
 Here are a [few tips](https://www.searchmetrics.com/de/glossar/suchmaschinenoptimierung/) to keep in mind when you’re writing technical content: 
 
-Use keyword-rich anchor text: When you’re [linking](https://en.wikipedia.org/wiki/Search_engine_optimization) to other pages on your website, be sure to use keywords in the [anchor text](https://rockcontent.com/blog/what-is-seo/).
+Use keyword-rich anchor text: When you’re [linking](https://en.wikipedia.org/wiki/Search_engine_optimization) to other pages on your website, be sure to [use keywords](https://webtrafficseo.pubpub.org/pub/xd86rhkc/) in the [anchor text](https://rockcontent.com/blog/what-is-seo/).
 
 ### Resources
 
