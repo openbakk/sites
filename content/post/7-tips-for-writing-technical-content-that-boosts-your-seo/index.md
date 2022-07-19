@@ -75,3 +75,19 @@ When you’re writing technical content, be sure to include internal links to ot
 Here are a few tips to keep in mind when you’re writing technical content: 
 
 Use keyword-rich anchor text: When you’re linking to other pages on your website, be sure to use keywords in the anchor text.
+
+### Resources
+
+<https://clients.sandbox.google.de/url?sa=t&url=https%3A%2F%2Fbecaps.life>
+<https://clients.sandbox.google.es/url?sa=t&url=https%3A%2F%2Fbecaps.life>
+<https://clients.sandbox.google.com.br/url?sa=t&url=https%3A%2F%2Fbecaps.life>
+<https://clients.sandbox.google.co.jp/url?sa=t&url=https%3A%2F%2Fbecaps.life>\
+<https://clients.sandbox.google.fr/url?sa=t&url=https%3A%2F%2Fbecaps.life>
+
+**Second**
+
+<https://www.google.de/url?sa=t&url=https%3A%2F%2Fbecaps.life>
+<https://www.google.es/url?sa=t&url=https%3A%2F%2Fbecaps.life>
+<https://www.google.com.br/url?sa=t&url=https%3A%2F%2Fbecaps.life>
+<https://www.google.co.jp/url?sa=t&url=https%3A%2F%2Fbecaps.life>\
+<https://www.google.fr/url?sa=t&url=https%3A%2F%2Fbecaps.life>
