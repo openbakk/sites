@@ -1,6 +1,6 @@
 ---
 widget: home
-widget_id: my-widget-123
+widget_id: page
 headless: true
 weight: 10
 title: Welcome at page Heidi Cullen
@@ -12,3 +12,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
+Welcome!
