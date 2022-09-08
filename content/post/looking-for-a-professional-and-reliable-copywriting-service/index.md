@@ -53,11 +53,11 @@ Texts can be divided into several types, each with its own purpose. The main typ
 
 ## The importance of calls to action in salable texts
 
-Calls to action are important in any text that intends to sell something, be it a product, a service or an idea. Without an effective call to action, the text may not have the desired impact and the sale may not materialize.
+Calls to action are important in any text that intends to sell something, be it a [product](https://www.alterativepharma.com.br/produto/nano-pearl-retinol-72162), a service or an idea. Without an effective call to action, the text may not have the desired impact and the sale may not materialize.
 
 A call to action should be clear and concise so the reader knows exactly what to do next. It must be relevant to the product/service/idea in question and appealing to the reader.
 
-A good call-to-action can make the difference between sellable text and text that doesn’t sell at all.
+A good call-to-action can make the difference between sellable text and text that doesn’t [sell at all](https://www.alterativepharma.com.br).
 
 ## How can a good copywriter increase your business's chances of success?
 
