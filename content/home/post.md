@@ -11,4 +11,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-**<https://heidicullen.netlify.app/post/7-tips-for-writing-technical-content-that-boosts-your-seo/>**
+T﻿he best articles!
