@@ -17,8 +17,8 @@ categories:
   - Service
 image:
   filename: https://stokimg.com/ib/2beEG8Ma8L.jpg
-  focal_point: CENTER
-  preview_only: false
+  focal_point: ""
+  preview_only: true
 ---
 ## What is copywriting?
 
@@ -29,6 +29,8 @@ Copywriting is the art of writing persuasive texts for marketing and advertising
 Copywriting services are important for getting quality content because they help ensure that the content is well-written, relevant, and appealing to the target audience. A good copywriter can make the difference between mediocre copy and excellent copy, and this is crucial to the success of any website or [blog](https://estudioweb.com.br/agro). In addition, copywriting services can also help optimize content for search engines, which can result in more organic traffic and, consequently, more leads and sales.
 
 ## The benefits of hiring a professional copywriter
+
+<img src="https://stokimg.com/ib/2beEG8Ma8L.jpg?nf_resize=fit&w=767&h=454">
 
 When it comes to creating content for a website, it's important to consider the reader. This means that the text must be well written, concise and informative, [visit this page](https://estudioweb.com.br/estrategias-no-instagram/). A copywriting professional can help ensure this happens. Here are some of the benefits of hiring a professional copywriter[²](https://estudioweb.com.br/educacao-financeira-5-dicas/).
 
